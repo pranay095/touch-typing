@@ -1,0 +1,170 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-family: 'Anton', sans-serif;
+  font-family: 'EB Garamond', serif;
+  
+}
+body {
+  background-color: white;
+}
+.container {
+  width: 80vmin;
+  padding: 50px 30px;
+  background-color: #ffffff;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 54%;
+  left: 50%;
+  border-radius: 40px;
+  border: 2px solid black;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+
+
+}
+.stats {
+  text-align: left;
+  font-size: 18px;
+  margin-bottom: 10px;
+
+  
+}
+.stats span {
+  font-weight: 600;
+}
+#quote {
+  text-align: justify;
+  margin: 50px 0 30px 0;
+    font-family: 'Anton', sans-serif;
+font-family: 'EB Garamond', serif;
+}
+textarea {
+  resize: none;
+  width: 100%;
+  border-radius: 5px;
+  padding: 10px 5px;
+  font-size: 16px;
+  font-family: 'Anton', sans-serif;
+font-family: 'EB Garamond', serif;
+  
+}
+button {
+  float: left;
+  margin-top: 20px;
+  background-color: #20B2AA;
+  color: aliceblue;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+.result {
+  margin-top: 40px;
+  display: none;
+  font-family: 'Anton', sans-serif;
+font-family: 'EB Garamond', serif;
+}
+.result h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 22px;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+.wrapper span {
+  font-weight: 600;
+}
+.success {
+  color: #44b267;
+}
+.fail {
+  color: #e81c4e;
+}
+.tt {
+  position: relative;
+  left: 618px;
+  top: 30px;
+  color: black;
+  font-size: 25px;
+  margin-left: -55px;
+ 
+}
+.img {
+  height: 900px;
+  width: 1550px;
+  position: relative;
+  top: -120px;
+  z-index: -1;
+  left: -30px;
+}
+.that {
+  position: relative;
+  top: 45px;
+  left: 440px;
+
+  
+ 
+}
+.wr {
+  color:  #8B0000;
+ 
+}
+.cm {
+  position: relative;
+  left: 450px;
+  color: white;
+  background-color: black;
+  padding-left: 200px;
+  padding-right: 1500px;
+  height: 280px;
+  width: 800px;
+  margin-left: -500px;
+  border: black;
+  top: -200px;
+  
+
+}
+.mc {
+  position: relative;
+  top: 10px;
+  left: 450px;
+  padding: 20px;
+  width: 4500px;
+  
+}
+.em {
+  font-family: 'Anton', sans-serif;
+font-family: 'EB Garamond', serif;
+}
+.yo {
+  font-family: 'Anton', sans-serif;
+font-family: 'EB Garamond', serif;
+}
+.pranay {
+  position: relative;
+  left: -10px;
+}
+.yap {
+  color: red;
+  font-family: 'Anton', sans-serif;
+  font-family: 'EB Garamond', serif;
+
+}
+.about {
+  float: left;
+  width: 400px;
+  height: 1200px;
+}
+.rock {
+  position: relative;
+  top: 36px;
+}
+.all {
+  position: relative;
+  left: 160px;
+
+}
